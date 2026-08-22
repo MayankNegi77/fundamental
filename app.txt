@@ -5,3 +5,4 @@ fouth line of app.txt
 fifth line of app.txt
 It is fifth line of app.txt
 sixth line of app.txt
+seventh line of app.txt
