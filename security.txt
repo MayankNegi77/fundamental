@@ -1,1 +1,2 @@
 first line of security.txt
+second line of security.txt
